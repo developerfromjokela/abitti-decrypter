@@ -7,7 +7,7 @@ Abitti's "custom" .meb format (just a zip, nothing special), files are encrypted
 
  `java -jar mebextractor.jar <password> <encrypted_file> <output>`
  
- ## What should I extract with this utility?
+ ## What can/should I extract with this utility?
  In this website https://oma.abitti.fi/ you can create exams and download your own .meb files.
  
  .meb file is just "rebreanded" zip archive, which contains encrypted files.
