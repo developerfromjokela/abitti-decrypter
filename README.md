@@ -2,7 +2,8 @@
 Abitti's "custom" .meb format (just a zip, nothing special), files are encrypted (just AES, nothing special, c'mon what were you expecting from "datanomi" people?). My script decrypts them.
 
 ## How to use
-Enter this into your command-line:
+1. Download the .jar file from releases.
+2. Enter this into your command-line:
 
  `java -jar mebextractor.jar <password> <encrypted_file> <output>`
  
